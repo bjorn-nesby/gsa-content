@@ -1,0 +1,29 @@
+id: "centaur"
+name: "Kentaur"
+weight: 10
+description: |-
+  Værknavn: Kentaur\
+  Materialer: zink, kobber\
+  Højde: 200 cm u/sokkel
+images:
+  - "/images/frie_kentaur.jpg"
+  - "/images/frie_kentaur2.jpg"
+thumbnail:
+  image: "/images/frie_kentaur.jpg"
+  x: 0.3667
+  y: 0.0759
+  size: 0.3545
+collections:
+  - "centaur"
+tags: []
+de:
+  description: |-
+    Werkname: Kentaur\
+    Materialien: Zink und Kupfer\
+    Höhe: 200 cm
+en:
+  name: "Centaur"
+  description: |-
+    Name: Centaur\
+    Materials: Zink and copper\
+    Height: 200 cm

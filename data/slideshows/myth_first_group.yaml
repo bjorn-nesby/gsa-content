@@ -1,0 +1,19 @@
+short_name: "myth_first_group"
+name: "Myter om Primitivitet"
+subtitle: "Begyndelsen på første gruppe i ler"
+section: "explore"
+weight: 110
+in_index: false
+slides:
+  - image: "/images/myth_first_group_myth_first_group_01.jpg"
+  - image: "/images/myth_first_group_myth_first_group_02.jpg"
+  - image: "/images/myth_first_group_myth_first_group_03.jpg"
+  - image: "/images/myth_first_group_myth_first_group_04.jpg"
+  - image: "/images/myth_first_group_myth_first_group_05.jpg"
+  - image: "/images/myth_first_group_myth_first_group_06.jpg"
+  - image: "/images/myth_first_group_myth_first_group_07.jpg"
+  - image: "/images/myth_first_group_myth_first_group_08.jpg"
+de:
+  name: "Mythen von Primitivität"
+en:
+  name: "Myths of Primitiveness"

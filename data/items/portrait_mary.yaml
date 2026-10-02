@@ -1,0 +1,19 @@
+id: "portrait_mary"
+name: "H.K.H. Kronprinsesse Mary"
+weight: 10
+description: |-
+  Værknavn: H.K.H. Kronprinsesse Mary\
+  Materialer: bronze\
+  Højde: oversize\
+  Placering: ARoS, Århus Kunstmuseum
+images:
+  - "/images/port_kprs_mary_960.jpg"
+thumbnail:
+  image: "/images/port_kprs_mary_960.jpg"
+  x: 0.1277
+  y: 0.0
+  size: 0.6795
+collections:
+  - "portraits"
+tags:
+  - "official_portraits"

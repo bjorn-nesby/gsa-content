@@ -1,0 +1,7 @@
+short_name: "about"
+name: "Om"
+weight: 20
+de:
+  name: "Über"
+en:
+  name: "About"

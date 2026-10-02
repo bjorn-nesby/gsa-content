@@ -1,0 +1,31 @@
+id: "port2_jess"
+name: "Jessy"
+weight: 1020
+description: |-
+  Værknavn: Jessy\
+  Materialer: polykrom gips\
+  Højde: oversize\
+  Placering: privateje
+images:
+  - "/images/port2_jess.jpg"
+thumbnail:
+  image: "/images/port2_jess.jpg"
+  x: 0.05
+  y: 0.0323
+  size: 0.7807
+collections:
+  - "portraits"
+tags:
+  - "private_portraits"
+de:
+  description: |-
+    Werkname: Jessy\
+    Materialien: Polychrom Gips\
+    Höhe: oversize\
+    Standort: privatbesitz
+en:
+  description: |-
+    Name: Jessy\
+    Materials: Polychrome plaster\
+    Height: oversize\
+    Location: in private collection

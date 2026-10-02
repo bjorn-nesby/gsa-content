@@ -1,0 +1,31 @@
+id: "port2_peden"
+name: "Peter"
+weight: 1030
+description: |-
+  Værknavn: Peter\
+  Materialer: voks\
+  Højde: oversize\
+  Placering: værksted
+images:
+  - "/images/port2_peden.jpg"
+thumbnail:
+  image: "/images/port2_peden.jpg"
+  x: 0.0
+  y: 0.1154
+  size: 0.8969
+collections:
+  - "portraits"
+tags:
+  - "private_portraits"
+de:
+  description: |-
+    Werkname: Peter\
+    Materialien: Wachs\
+    Höhe: oversize\
+    Standort: studio
+en:
+  description: |-
+    Name: Peter\
+    Materials: wax\
+    Height: oversize\
+    Location: studio

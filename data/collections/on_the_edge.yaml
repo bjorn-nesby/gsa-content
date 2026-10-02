@@ -1,0 +1,10 @@
+short_name: "on_the_edge"
+name: "På Kanten"
+weight: 120
+sections:
+  - "commissions"
+text: ""
+de:
+  name: "Am Rande"
+en:
+  name: "On the Edge"

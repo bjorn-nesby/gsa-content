@@ -1,0 +1,34 @@
+id: "on_the_edge_1"
+name: "På Kanten"
+weight: 10
+description: |-
+  Værknavn: På Kanten\
+  Materialer: voks\
+  Højde: 2 skulpturer, 120 cm u/sokkel\
+  Placering: Mathilde Fibigers Plads, Aarhus
+images:
+  - "/images/frie_depro_kanten_udsmyk_1.jpg"
+  - "/images/frie_depro_kanten_udsmyk_2.jpg"
+  - "/images/frie_depro_kanten_udsmyk_3.jpg"
+thumbnail:
+  image: "/images/frie_depro_kanten_udsmyk_1.jpg"
+  x: 0.1458
+  y: 0.1111
+  size: 0.6537
+collections:
+  - "on_the_edge"
+tags: []
+de:
+  name: "Am Rande"
+  description: |-
+    Werkname: Am Rande\
+    Materialien: Wachs\
+    Höhe: 2 skulpturen, 120 cm\
+    Standort: Mathilde Fibigers Plads, Aarhus
+en:
+  name: "On the Edge"
+  description: |-
+    Name: On the Edge\
+    Materials: wax\
+    Height: 2 sculptures, 120 cm\
+    Location: Mathilde Fibigers Plads, Aarhus

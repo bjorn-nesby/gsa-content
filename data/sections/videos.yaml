@@ -1,0 +1,7 @@
+short_name: "videos"
+name: "Video"
+weight: 60
+de:
+  name: "Videos"
+en:
+  name: "Videos"

@@ -1,0 +1,31 @@
+id: "bird_woman"
+name: "Fuglekvinde"
+weight: 10
+description: |-
+  Værknavn: Fuglekvinde\
+  Materialer: kobber\
+  Højde: 250 cm u/sokkel
+images:
+  - "/images/frie_fugle_1.jpg"
+  - "/images/frie_fugle_2.jpg"
+  - "/images/frie_fugle_3.jpg"
+thumbnail:
+  image: "/images/frie_fugle_1.jpg"
+  x: 0.1556
+  y: 0.0794
+  size: 0.7068
+collections:
+  - "bird_woman"
+tags: []
+de:
+  name: "Vogelfrau"
+  description: |-
+    Werkname: Vogelfrau\
+    Materialien: Kupfer\
+    Höhe: 250 cm
+en:
+  name: "Bird Woman"
+  description: |-
+    Name: Bird Woman\
+    Materials: Copper\
+    Height: 250 cm

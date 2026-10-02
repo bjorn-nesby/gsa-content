@@ -1,0 +1,13 @@
+short_name: "visitors"
+name: "Gæster fra Det Indre Rum"
+subtitle: ""
+section: "explore"
+weight: 50
+in_index: true
+slides:
+  - image: "/images/visitors_visitors_0000_1.jpg"
+  - image: "/images/visitors_visitors_0001_2.jpg"
+  - image: "/images/visitors_visitors_0002_3.jpg"
+  - image: "/images/visitors_visitors_0003_4.jpg"
+en:
+  name: "Visitors from The Inner Space"

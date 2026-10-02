@@ -1,0 +1,29 @@
+id: "seeress"
+name: "Seerske"
+weight: 30
+description: |-
+  Værknavn: Seerske\
+  Materialer: voks\
+  Højde: 80 cm u/sokkel
+images:
+  - "/images/frie_depro_seerske.jpg"
+thumbnail:
+  image: "/images/frie_depro_seerske.jpg"
+  x: 0.0435
+  y: 0.0
+  size: 0.6899
+collections:
+  - "de_profundis"
+tags: []
+de:
+  name: "Seherin"
+  description: |-
+    Werkname: Seherin\
+    Materialien: Wachs\
+    Höhe: ~ 80 cm
+en:
+  name: "Seeress"
+  description: |-
+    Name: Seeress\
+    Materials: wax\
+    Height: ~ 80 cm

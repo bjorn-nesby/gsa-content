@@ -1,0 +1,31 @@
+id: "port2_simon1"
+name: "Anders"
+weight: 1040
+description: |-
+  Værknavn: Anders\
+  Materialer: ler\
+  Højde: oversize\
+  Placering: værksted
+images:
+  - "/images/port2_simon.jpg"
+thumbnail:
+  image: "/images/port2_simon.jpg"
+  x: 0.0
+  y: 0.0435
+  size: 1.0
+collections:
+  - "portraits"
+tags:
+  - "private_portraits"
+de:
+  description: |-
+    Werkname: Anders\
+    Materialien: Ton\
+    Höhe: oversize\
+    Standort: studio
+en:
+  description: |-
+    Name: Anders\
+    Materials: Clay\
+    Height: oversize\
+    Location: studio

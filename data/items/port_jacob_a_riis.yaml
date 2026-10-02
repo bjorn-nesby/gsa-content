@@ -1,0 +1,28 @@
+id: "port_jacob_a_riis"
+name: "Jacob A. Riis"
+weight: 110
+description: |-
+  Værknavn: Jacob A. Riis\
+  Materialer: bronze\
+  Placering: Ribe
+images:
+  - "/images/port_jacob_a_riis.jpg"
+thumbnail:
+  image: "/images/port_jacob_a_riis.jpg"
+  x: 0.0571
+  y: 0.037
+  size: 0.9118
+collections:
+  - "portraits"
+tags:
+  - "official_portraits"
+de:
+  description: |-
+    Werkname: Jacob A. Riis\
+    Materialien: Bronze\
+    Standort: Ribe
+en:
+  description: |-
+    Name: Jacob A. Riis\
+    Materials: Bronze\
+    Location: Ribe

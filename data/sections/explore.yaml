@@ -1,0 +1,7 @@
+short_name: "explore"
+name: "Udforsk"
+weight: 70
+de:
+  name: "Entdecken"
+en:
+  name: "Explore"

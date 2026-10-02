@@ -1,0 +1,29 @@
+id: "survivor"
+name: "Overlever"
+weight: 50
+description: |-
+  Værknavn: Overlever\
+  Materialer: voks\
+  Højde: 95 cm u/sokkel
+images:
+  - "/images/frie_depro_overlever.jpg"
+thumbnail:
+  image: "/images/frie_depro_overlever.jpg"
+  x: 0.3158
+  y: 0.08
+  size: 0.5557
+collections:
+  - "de_profundis"
+tags: []
+de:
+  name: "Überleber"
+  description: |-
+    Werkname: Überleber\
+    Materialien: Wachs\
+    Höhe: ~ 95 cm
+en:
+  name: "Survivor"
+  description: |-
+    Name: Survivor\
+    Materials: wax\
+    Height: ~ 95 cm

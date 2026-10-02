@@ -1,0 +1,31 @@
+id: "port1_eva_smith"
+name: "Eva Smith"
+weight: 101
+description: |-
+  Værknavn: Professor emerita, dr.jur. Eva Smith\
+  Materialer: bronze\
+  Placering: Juridisk Fakultet, Københavns Universitet\
+  Finansieret af Kirsten og Niels Reisby Fonden
+images:
+  - "/images/port1_eva_smith_2x.jpg"
+thumbnail:
+  image: "/images/port1_eva_smith_2x.jpg"
+  x: 0.0811
+  y: 0.02
+  size: 0.8438
+collections:
+  - "portraits"
+tags:
+  - "official_portraits"
+de:
+  description: |-
+    Werkname: Professor emerita, dr.jur. Eva Smith\
+    Materialien: bronze\
+    Standort: Juridisk Fakultet, Københavns Universitet\
+    Finansieret af Kirsten og Niels Reisby Fonden
+en:
+  description: |-
+    Name: Professor emerita, dr.jur. Eva Smith\
+    Materials: Bronze\
+    Location: Nuuk, Grønland\
+    Financed by Kirsten og Niels Reisby Fonden

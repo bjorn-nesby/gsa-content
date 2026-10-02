@@ -1,0 +1,9 @@
+short_name: "perpetuum_installation"
+name: "Perpetuum Mobile: Installations-version"
+subtitle: ""
+section: "videos"
+weight: 130
+in_index: true
+slides:
+  - video: "https://www.youtube.com/embed/6tfM69mzwDQ"
+  - video: "https://www.youtube.com/embed/8mcQ5fOKRdA"

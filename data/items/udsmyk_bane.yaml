@@ -1,0 +1,33 @@
+id: "udsmyk_bane"
+name: "Banebørster"
+weight: 10
+description: |-
+  Værknavn: Banebørster\
+  Materialer: bronze\
+  Højde: ca.160 cm u/sokkel\
+  Placering: Hadsten Station
+images:
+  - "/images/udsmyk_bane1.jpg"
+  - "/images/udsmyk_bane2.jpg"
+thumbnail:
+  image: "/images/udsmyk_bane1.jpg"
+  x: 0.08
+  y: 0.1053
+  size: 0.6306
+collections:
+  - "railway_hands"
+tags: []
+de:
+  name: "Rauhe Bahnburschen"
+  description: |-
+    Werkname: Rauhe Bahnburschen\
+    Materialien: Bronze\
+    Höhe: 160cm\
+    Standort: Bahnhof von Hadsten
+en:
+  name: "Railway Hands"
+  description: |-
+    Name: Railway Hands\
+    Materials: Bronze\
+    Height: approx. 160 cm\
+    Location: Hadsten Station

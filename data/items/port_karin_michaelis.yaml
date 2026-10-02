@@ -1,0 +1,15 @@
+id: "port_karin_michaelis"
+name: "Karin Michaëlis"
+weight: 55
+description: "Karin Michaëlis"
+images:
+  - "/images/2x_karin_michaelis.jpg"
+thumbnail:
+  image: "/images/2x_karin_michaelis.jpg"
+  x: 0.0833
+  y: 0.02
+  size: 0.8695
+collections:
+  - "portraits"
+tags:
+  - "official_portraits"

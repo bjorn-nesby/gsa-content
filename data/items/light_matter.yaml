@@ -1,0 +1,31 @@
+id: "light_matter"
+name: "LysStof"
+weight: 10
+description: |-
+  Værknavn: LysStof\
+  Materialer: Epoxy
+images:
+  - "/images/01lysstof.jpg"
+  - "/images/02lysstof.jpg"
+  - "/images/03lysstof.jpg"
+  - "/images/04lysstof.jpg"
+  - "/images/05lysstof.jpg"
+  - "/images/06lysstof.jpg"
+thumbnail:
+  image: "/images/01lysstof.jpg"
+  x: 0.3061
+  y: 0.3538
+  size: 0.6485
+collections:
+  - "light_matter"
+tags: []
+de:
+  name: "LichtStof"
+  description: |-
+    Werkname: LichtStof\
+    Materialien: Epoxy
+en:
+  name: "Light Matter"
+  description: |-
+    Name: Light Matter\
+    Materials: Epoxy

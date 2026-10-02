@@ -1,0 +1,32 @@
+id: "mainstay_1"
+name: "Det Bærende Element"
+weight: 10
+description: |-
+  Værknavn: Det Bærende Element\
+  Materialer: møtrikker, rustfrit stål\
+  Højde: 320 cm u/sokkel\
+  Placering: AMU-Center, Århus
+images:
+  - "/images/udsmyk_element.jpg"
+thumbnail:
+  image: "/images/udsmyk_element.jpg"
+  x: 0.5
+  y: 0.0337
+  size: 0.4835
+collections:
+  - "mainstay"
+tags: []
+de:
+  name: "Das tragende Element"
+  description: |-
+    Werkname: Das tragende Element\
+    Materialien: Muttern\
+    Höhe: 320 cm\
+    Standort: AMU-Center (Ausbildungsstätte für angelernte Arbeiter)
+en:
+  name: "Mainstay/Caryatid"
+  description: |-
+    Name: Mainstay/Caryatid\
+    Materials: Stainless steel nuts\
+    Height: 320 cm\
+    Location: AMU-Centre in Aarhus, Hasselager.

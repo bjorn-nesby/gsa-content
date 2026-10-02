@@ -1,0 +1,31 @@
+id: "port2_poul"
+name: "Paul"
+weight: 1060
+description: |-
+  Værknavn: Poul\
+  Materialer: patineret gips\
+  Højde: oversize\
+  Placering: værksted
+images:
+  - "/images/port2_poul.jpg"
+thumbnail:
+  image: "/images/port2_poul.jpg"
+  x: 0.1429
+  y: 0.0811
+  size: 0.5063
+collections:
+  - "portraits"
+tags:
+  - "private_portraits"
+de:
+  description: |-
+    Werkname: Poul\
+    Materialien: patinierter Gips\
+    Höhe: oversize\
+    Standort: studio
+en:
+  description: |-
+    Name: Poul\
+    Materials: Patinated plaster\
+    Height: oversize\
+    Location: studio

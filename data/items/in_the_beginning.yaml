@@ -1,0 +1,29 @@
+id: "in_the_beginning"
+name: "I Begyndelsen"
+weight: 100
+description: |-
+  Værknavn: I Begyndelsen\
+  Materialer: voks\
+  Højde: 220 cm u/sokkel
+images:
+  - "/images/frie_depro_begyndelsen.jpg"
+thumbnail:
+  image: "/images/frie_depro_begyndelsen.jpg"
+  x: 0.3387
+  y: 0.1452
+  size: 0.2563
+collections:
+  - "de_profundis"
+tags: []
+de:
+  name: "Am Anfang"
+  description: |-
+    Werkname: Am Anfang\
+    Materialien: Wachs\
+    Höhe: 220 cm
+en:
+  name: "In the Beginning"
+  description: |-
+    Name: In the Beginning\
+    Materials: wax\
+    Height: 220 cm

@@ -1,0 +1,36 @@
+id: "udsmyk_enhjorn"
+name: "Enhjørning"
+weight: 10
+description: |-
+  Værknavn: Enhjørning\
+  Materialer: bronze\
+  Højde: ca.150 cm\
+  Placering: Steno Museet, Århus
+images:
+  - "/images/udsmyk_enhjoerning_01.jpg"
+  - "/images/udsmyk_enhjoerning_02.jpg"
+  - "/images/udsmyk_enhjoerning_03.jpg"
+  - "/images/udsmyk_enhjoerning_04.jpg"
+  - "/images/udsmyk_enhjoerning_05.jpg"
+thumbnail:
+  image: "/images/udsmyk_enhjoerning_01.jpg"
+  x: 0.08
+  y: 0.0556
+  size: 0.6208
+collections:
+  - "unicorn"
+tags: []
+de:
+  name: "Einhörnchen"
+  description: |-
+    Werkname: Einhörnchen\
+    Materialien: Bronze\
+    Höhe: 150cm\
+    Standort: Steno Museum, Aarhus
+en:
+  name: "Unicorn"
+  description: |-
+    Name: Unicorn\
+    Materials: Bronze\
+    Height: approx. 150 cm\
+    Location: Steno Museum, Aarhus

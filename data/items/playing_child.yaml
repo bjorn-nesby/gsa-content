@@ -1,0 +1,33 @@
+id: "playing_child"
+name: "Legende Barn"
+weight: 20
+description: |-
+  Værknavn: Legende Barn\
+  Materialer: bronze\
+  Højde: 140cm\
+  Placering: Torstedskolen, Horsens
+images:
+  - "/images/udsmyk_legende_barn_2.jpg"
+  - "/images/udsmyk_legende_barn_1.jpg"
+thumbnail:
+  image: "/images/udsmyk_legende_barn_2.jpg"
+  x: 0.1351
+  y: 0.1538
+  size: 0.843
+collections:
+  - "child_playing"
+tags: []
+de:
+  name: "Spielendes Kind"
+  description: |-
+    Werkname: Spielendes Kind\
+    Materialien: bronze\
+    Höhe: 140cm\
+    Standort: Torstedskolen, Horsens
+en:
+  name: "Child playing"
+  description: |-
+    Name: Child playing\
+    Materials: bronze\
+    Height: 140cm\
+    Location: Torstedskolen, Horsens

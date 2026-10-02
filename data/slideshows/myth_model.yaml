@@ -1,0 +1,13 @@
+short_name: "myth_model"
+name: "Myter om Primitivitet"
+subtitle: "Model af de to grupper"
+section: "explore"
+weight: 100
+in_index: false
+slides:
+  - image: "/images/myth_model_papir_0039.jpg"
+  - image: "/images/myth_model_papir_0040.jpg"
+de:
+  name: "Mythen von Primitivität"
+en:
+  name: "Myths of Primitiveness"

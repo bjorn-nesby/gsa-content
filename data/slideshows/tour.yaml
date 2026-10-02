@@ -1,0 +1,24 @@
+short_name: "tour"
+name: "En tur i værkstedet"
+subtitle: "Det kræver plads at lave skulpturer"
+section: "explore"
+weight: 10
+in_index: true
+slides:
+  - image: "/images/tour_1_img_1403_copy.jpg"
+  - image: "/images/tour_3_img_1412_copy.jpg"
+  - image: "/images/tour_4_img_1425_copy.jpg"
+  - image: "/images/tour_5_img_1438_copy.jpg"
+  - image: "/images/tour_6_img_1455_copy.jpg"
+  - image: "/images/tour_7_img_1466.jpg"
+  - image: "/images/tour_8_sc0000_sc0001.jpg"
+  - image: "/images/tour_9_sc0006.jpg"
+  - image: "/images/tour_10_sc0040.jpg"
+  - image: "/images/tour_11_koedby_marked.jpg"
+  - image: "/images/tour_12_satellite.jpg"
+  - image: "/images/tour_13_ellekreds.jpg"
+de:
+  name: "Aus der Werkstatt"
+en:
+  name: "A tour of the studio"
+  subtitle: "Sculpturing requires space"

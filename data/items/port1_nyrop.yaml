@@ -1,0 +1,31 @@
+id: "port1_nyrop"
+name: "H. Nyrop-Christensen"
+weight: 40
+description: |-
+  Værknavn: H. Nyrop-Christensen\
+  Materialer: bronze\
+  Højde: oversize\
+  Placering: Den Gamle By, Århus
+images:
+  - "/images/port1_nyrop.jpg"
+thumbnail:
+  image: "/images/port1_nyrop.jpg"
+  x: 0.1111
+  y: 0.0
+  size: 0.7002
+collections:
+  - "portraits"
+tags:
+  - "official_portraits"
+de:
+  description: |-
+    Werkname: H. Nyrop-Christensen\
+    Materialien: Bronze\
+    Höhe: oversize\
+    Standort: Kleinstadtmuseum Dänemarks
+en:
+  description: |-
+    Name: H. Nyrop-Christensen\
+    Materials: Bronze\
+    Height: oversize\
+    Location: The Old Town, Aarhus

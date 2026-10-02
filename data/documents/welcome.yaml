@@ -1,0 +1,12 @@
+short_name: "welcome"
+title: "Gudrun Steen-Andersen"
+subtitle: "billedhugger"
+header_image: ""
+text: "[![De Profundis](/images/frie_depro_ellekreds.jpg)](/free_works/de_profundis/)"
+weight: 10
+section: "home"
+tags: []
+de:
+  subtitle: "Bildhauerin"
+en:
+  subtitle: "sculptor"

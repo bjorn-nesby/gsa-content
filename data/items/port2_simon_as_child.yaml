@@ -1,0 +1,19 @@
+id: "port2_simon_as_child"
+name: "Simon (som lille)"
+weight: 1080
+description: ""
+images:
+  - "/images/port2_simon_lille.jpg"
+thumbnail:
+  image: "/images/port2_simon_lille.jpg"
+  x: 0.0833
+  y: 0.0357
+  size: 0.868
+collections:
+  - "portraits"
+tags:
+  - "private_portraits"
+de:
+  name: "Simon (als Kind)"
+en:
+  name: "Simon (as a child)"

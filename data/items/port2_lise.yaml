@@ -1,0 +1,15 @@
+id: "port2_lise"
+name: "Lise"
+weight: 1080
+description: ""
+images:
+  - "/images/port2_lise.jpg"
+thumbnail:
+  image: "/images/port2_lise.jpg"
+  x: 0.0
+  y: 0.1633
+  size: 0.97
+collections:
+  - "portraits"
+tags:
+  - "private_portraits"

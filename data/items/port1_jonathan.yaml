@@ -1,0 +1,28 @@
+id: "port1_jonathan"
+name: "Jonathan Motzfeldt"
+weight: 100
+description: |-
+  Værknavn: Jonathan Motzfeldt\
+  Materialer: bronze\
+  Placering: Nuuk, Grønland
+images:
+  - "/images/port1_jonathan.jpg"
+thumbnail:
+  image: "/images/port1_jonathan.jpg"
+  x: 0.0
+  y: 0.0408
+  size: 0.97
+collections:
+  - "portraits"
+tags:
+  - "official_portraits"
+de:
+  description: |-
+    Werkname: Jonathan Motzfeldt\
+    Materialien: Bronze\
+    Standort: Nuuk, Greenland
+en:
+  description: |-
+    Name: Jonathan Motzfeldt\
+    Materials: Bronze\
+    Location: Nuuk, Grønland

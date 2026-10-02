@@ -1,0 +1,7 @@
+short_name: "home"
+name: "Forside"
+weight: 10
+de:
+  name: "Startseite"
+en:
+  name: "Home"

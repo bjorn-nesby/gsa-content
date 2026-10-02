@@ -1,0 +1,19 @@
+short_name: "myth_finished"
+name: "Myter om Primitivitet"
+subtitle: "Begge grupper færdige i henholdsvis ler og gips"
+section: "explore"
+weight: 120
+in_index: false
+slides:
+  - image: "/images/myth_finished_myth_finished_01.jpg"
+  - image: "/images/myth_finished_myth_finished_02.jpg"
+  - image: "/images/myth_finished_myth_finished_03.jpg"
+  - image: "/images/myth_finished_myth_finished_04.jpg"
+  - image: "/images/myth_finished_myth_finished_05.jpg"
+  - image: "/images/myth_finished_myth_finished_06.jpg"
+  - image: "/images/myth_finished_myth_finished_07.jpg"
+  - image: "/images/myth_finished_myth_finished_08.jpg"
+de:
+  name: "Mythen von Primitivität"
+en:
+  name: "Myths of Primitiveness"

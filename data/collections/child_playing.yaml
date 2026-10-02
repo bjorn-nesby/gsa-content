@@ -1,0 +1,10 @@
+short_name: "child_playing"
+name: "Legende Barn"
+weight: 110
+sections:
+  - "commissions"
+text: ""
+de:
+  name: "Spielendes Kind"
+en:
+  name: "Child playing"

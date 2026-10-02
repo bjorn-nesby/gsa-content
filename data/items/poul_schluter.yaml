@@ -1,0 +1,31 @@
+id: "poul_schluter"
+name: "Poul Schlüter"
+weight: 20
+description: |-
+  Værknavn: Poul Schlüter\
+  Materialer: bronze\
+  Højde: oversize\
+  Placering: Tønder og Folketinget
+images:
+  - "/images/port1_poul.jpg"
+thumbnail:
+  image: "/images/port1_poul.jpg"
+  x: 0.125
+  y: 0.0196
+  size: 0.7807
+collections:
+  - "portraits"
+tags:
+  - "official_portraits"
+de:
+  description: |-
+    Werkname: Poul Schlüter\
+    Materialien: Bronze\
+    Höhe: oversize\
+    Standort: Tondern
+en:
+  description: |-
+    Name: Poul Schlüter\
+    Materials: Bronze\
+    Height: oversize\
+    Location: Tønder

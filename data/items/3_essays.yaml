@@ -1,0 +1,29 @@
+id: "3_essays"
+name: "3 Udkast"
+weight: 90
+description: |-
+  Værknavn: 3 Udkast\
+  Materialer: voks\
+  Højde: 3 skulpturer, 25 cm u/sokkel
+images:
+  - "/images/frie_depro_udkast.jpg"
+thumbnail:
+  image: "/images/frie_depro_udkast.jpg"
+  x: 0.6757
+  y: 0.3193
+  size: 0.2156
+collections:
+  - "de_profundis"
+tags: []
+de:
+  name: "3 Entwürfe"
+  description: |-
+    Werkname: 3 Entwürfe\
+    Materialien: Wachs\
+    Höhe: 3 skulpturen, 25 cm
+en:
+  name: "3 Essays"
+  description: |-
+    Name: 3 Essays\
+    Materials: wax\
+    Height: 3 sculptures, 25 cm

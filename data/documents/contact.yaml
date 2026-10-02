@@ -1,0 +1,28 @@
+short_name: "contact"
+title: "Kontakt"
+subtitle: ""
+header_image: ""
+text: |-
+  |  |  |
+  |---|---|
+  | Studio | Arresøvej 45C <br>8240 Risskov <br>Danmark |
+  | Privat | Hans Broges Gade 9,4. DK <br>8000 Aarhus C <br>Danmark |
+  | Telefon | +45 21953027 <br>+45 21719018 |
+weight: 10
+section: "contact"
+tags: []
+de:
+  text: |-
+    |  |  |
+    |---|---|
+    | Studio | Arresøvej 45C <br>8240 Risskov <br>Dänemark |
+    | Privat | Hans Broges Gade 9,4. DK <br>8000 Aarhus C <br>Dänemark |
+    | Telefon | +45 21953027 <br>+45 21719018 |
+en:
+  title: "Contact"
+  text: |-
+    |  |  |
+    |---|---|
+    | Studio | Arresøvej 45C <br>8240 Risskov <br>Denmark |
+    | Private | Hans Broges Gade 9,4. DK <br>8000 Aarhus C <br>Denmark |
+    | Phone | +45 21953027 <br>+45 21719018 |

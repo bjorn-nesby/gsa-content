@@ -1,0 +1,15 @@
+short_name: "erteboelle"
+name: "Ertebølle Udstilling"
+subtitle: ""
+section: "explore"
+weight: 60
+in_index: true
+slides:
+  - image: "/images/erteboelle_erteboelle_1.jpg"
+  - image: "/images/erteboelle_erteboelle_2.jpg"
+  - image: "/images/erteboelle_erteboelle_3.jpg"
+  - image: "/images/erteboelle_erteboelle_4.jpg"
+de:
+  name: "Ertebølle Ausstellung"
+en:
+  name: "Ertebølle Exhibition"

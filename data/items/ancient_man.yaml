@@ -1,0 +1,29 @@
+id: "ancient_man"
+name: "Det Gamle Menneske"
+weight: 60
+description: |-
+  Værknavn: Det Gamle Menneske\
+  Materialer: voks\
+  Højde: 100 cm u/sokkel
+images:
+  - "/images/frie_depro_det_gamle.jpg"
+thumbnail:
+  image: "/images/frie_depro_det_gamle.jpg"
+  x: 0.0286
+  y: 0.0217
+  size: 0.8977
+collections:
+  - "de_profundis"
+tags: []
+de:
+  name: "Der Alte Mensch"
+  description: |-
+    Werkname: Der Alte Mensch\
+    Materialien: Wachs\
+    Höhe: ~ 100 cm
+en:
+  name: "Ancient Man"
+  description: |-
+    Name: Ancient Man\
+    Materials: wax\
+    Height: ~ 100 cm

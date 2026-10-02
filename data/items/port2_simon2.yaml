@@ -1,0 +1,15 @@
+id: "port2_simon2"
+name: "Simon"
+weight: 1080
+description: ""
+images:
+  - "/images/port2_simon2_1520x2328.jpg"
+thumbnail:
+  image: "/images/port2_simon2_1520x2328.jpg"
+  x: 0.0571
+  y: 0.0556
+  size: 0.8977
+collections:
+  - "portraits"
+tags:
+  - "private_portraits"

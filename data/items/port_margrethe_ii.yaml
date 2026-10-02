@@ -1,0 +1,33 @@
+id: "port_margrethe_ii"
+name: "H.M. Dronning Margrethe 2"
+weight: 5
+description: |-
+  Værknavn: Dronning Margrethe II\
+  Materialer: bronze\
+  Højde: oversize\
+  Placering: ARoS, Århus Kunstmuseum
+images:
+  - "/images/port1_margrethe.jpg"
+thumbnail:
+  image: "/images/port1_margrethe.jpg"
+  x: 0.2222
+  y: 0.025
+  size: 0.5063
+collections:
+  - "portraits"
+tags:
+  - "official_portraits"
+de:
+  name: "Ihrer Majestät Köningin Margrethe II"
+  description: |-
+    Werkname: Ihrer Majestät Köningin Margrethe II\
+    Materialien: Bronze\
+    Höhe: oversize\
+    Standort: ARoS, Aarhus Kunstmuseum
+en:
+  name: "Queen of Denmark"
+  description: |-
+    Name: H.M. Margrethe II, Queen of Denmark\
+    Materials: Bronze\
+    Height: oversize\
+    Location: ARoS, Museum of Fine Arts, Århus

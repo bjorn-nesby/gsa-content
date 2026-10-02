@@ -1,0 +1,30 @@
+id: "elf_circle"
+name: "Ecce Homo"
+weight: 5
+description: |-
+  Værknavn: Ecce Homo\
+  Materialer: voks\
+  Højde: 5 skulpturer, 220 cm u/sokkel, Ø 300 cm\
+  Placering: Bronzeeksemplar deponeret på støberiet Strrassacker
+images:
+  - "/images/frie_depro_ellekreds.jpg"
+thumbnail:
+  image: "/images/frie_depro_ellekreds.jpg"
+  x: 0.4924
+  y: 0.1078
+  size: 0.2418
+collections:
+  - "de_profundis"
+tags: []
+de:
+  description: |-
+    Werkname: Ecce Homo\
+    Materialien: Wachs\
+    Höhe: 5 skulpturen, 220 cm. Ø 300 cm\
+    Standort: Bronzeexemplar in der Strassacker-Gießerei hinterlegt
+en:
+  description: |-
+    Name: Ecce Homo\
+    Materials: wax\
+    Height: 5 sculptures, 220 cm. Ø 300 cm\
+    Location: Bronze cast deposited at the Strassacker foundry

@@ -1,0 +1,10 @@
+short_name: "unicorn"
+name: "Enhjørning"
+weight: 70
+sections:
+  - "commissions"
+text: ""
+de:
+  name: "Einhörnchen"
+en:
+  name: "Unicorn"

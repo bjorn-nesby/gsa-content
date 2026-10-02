@@ -1,0 +1,18 @@
+short_name: "strassacker"
+name: "Formarbejde på støberiet Strassacker"
+subtitle: ""
+section: "explore"
+weight: 70
+in_index: true
+slides:
+  - image: "/images/strassacker_strassacker_0000_1.jpg"
+  - image: "/images/strassacker_strassacker_0001_2.jpg"
+  - image: "/images/strassacker_strassacker_0002_3.jpg"
+  - image: "/images/strassacker_strassacker_0003_4.jpg"
+  - image: "/images/strassacker_strassacker_0004_5.jpg"
+  - image: "/images/strassacker_strassacker_0005_6.jpg"
+  - image: "/images/strassacker_strassacker_0006_7.jpg"
+  - image: "/images/strassacker_strassacker_0007_8.jpg"
+  - image: "/images/strassacker_strassacker_0008_9.jpg"
+  - image: "/images/strassacker_strassacker_0009_10.jpg"
+  - image: "/images/strassacker_strassacker_0010_11.jpg"

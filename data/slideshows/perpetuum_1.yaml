@@ -1,0 +1,25 @@
+short_name: "perpetuum_1"
+name: "Perpetuum Mobile procesbilleder"
+subtitle: "Proces #1"
+section: "explore"
+weight: 20
+in_index: false
+slides:
+  - image: "/images/perpetuum_1_1.jpg"
+  - image: "/images/perpetuum_1_2.jpg"
+  - image: "/images/perpetuum_1_3.jpg"
+  - image: "/images/perpetuum_1_4.jpg"
+  - image: "/images/perpetuum_1_5.jpg"
+  - image: "/images/perpetuum_1_6.jpg"
+  - image: "/images/perpetuum_1_7.jpg"
+  - image: "/images/perpetuum_1_8.jpg"
+  - image: "/images/perpetuum_1_9.jpg"
+  - image: "/images/perpetuum_1_10.jpg"
+  - image: "/images/perpetuum_1_11.jpg"
+  - image: "/images/perpetuum_1_12.jpg"
+de:
+  name: "Perpetuum Mobile Prozessbilder"
+  subtitle: "Prozess #1"
+en:
+  name: "Perpetuum Mobile process-images"
+  subtitle: "Process #1"

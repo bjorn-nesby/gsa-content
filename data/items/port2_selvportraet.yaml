@@ -1,0 +1,19 @@
+id: "port2_selvportraet"
+name: "Selvportræt"
+weight: 1080
+description: ""
+images:
+  - "/images/port2_selvportraet_1520x2210.jpg"
+thumbnail:
+  image: "/images/port2_selvportraet_1520x2210.jpg"
+  x: 0.0
+  y: 0.0435
+  size: 1.0
+collections:
+  - "portraits"
+tags:
+  - "private_portraits"
+de:
+  name: "Selbstporträt"
+en:
+  name: "Self portrait"

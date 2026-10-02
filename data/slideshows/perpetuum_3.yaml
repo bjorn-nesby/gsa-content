@@ -1,0 +1,18 @@
+short_name: "perpetuum_3"
+name: "Perpetuum Mobile procesbilleder"
+subtitle: "Proces #3"
+section: "explore"
+weight: 40
+in_index: false
+slides:
+  - image: "/images/perpetuum_3_1.jpg"
+  - image: "/images/perpetuum_3_2.jpg"
+  - image: "/images/perpetuum_3_3.jpg"
+  - image: "/images/perpetuum_3_4.jpg"
+  - image: "/images/perpetuum_3_5.jpg"
+de:
+  name: "Perpetuum Mobile Prozessbilder"
+  subtitle: "Prozess #3"
+en:
+  name: "Perpetuum Mobile process-images"
+  subtitle: "Process #3"

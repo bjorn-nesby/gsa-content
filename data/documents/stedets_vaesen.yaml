@@ -1,0 +1,13 @@
+short_name: "stedets_vaesen"
+title: "Stedets væsen"
+subtitle: "Skitseprojekt"
+header_image: "/images/stedets_header.jpg"
+text: |-
+  ![PDF](/images/icon_pdf.gif) [Download PDF (Da)](/files/stedets_vaesen_skitseprojekt.pdf)
+
+  Denne landskabsskulptur er endnu ikke blevet realiseret, men den er et særdeles overbevisende (var)tegn, der kan placeres stort set alle steder af historisk værdi
+weight: 20
+section: "explore"
+tags: []
+en:
+  subtitle: "Project sketch"

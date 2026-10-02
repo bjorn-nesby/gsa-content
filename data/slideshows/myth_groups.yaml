@@ -1,0 +1,17 @@
+short_name: "myth_groups"
+name: "Myter om Primitivitet"
+subtitle: "De bemalede gipsskulpturer fotograferet i større og mindre grupper"
+section: "explore"
+weight: 80
+in_index: false
+slides:
+  - image: "/images/myth_groups_papir_0001.jpg"
+  - image: "/images/myth_groups_papir_0002.jpg"
+  - image: "/images/myth_groups_papir_0003.jpg"
+  - image: "/images/myth_groups_papir_0004.jpg"
+  - image: "/images/myth_groups_papir_0005.jpg"
+  - image: "/images/myth_groups_papir_0006.jpg"
+de:
+  name: "Mythen von Primitivität"
+en:
+  name: "Myths of Primitiveness"

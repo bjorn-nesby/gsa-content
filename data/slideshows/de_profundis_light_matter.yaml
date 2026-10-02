@@ -1,0 +1,12 @@
+short_name: "de_profundis_light_matter"
+name: "De Profundis + LysStof"
+subtitle: ""
+section: "videos"
+weight: 5
+in_index: true
+slides:
+  - video: "https://www.youtube.com/embed/zAUfZ4Q3jLw"
+de:
+  name: "De Profundis + LichtStof"
+en:
+  name: "De Profundis + Light Matter"

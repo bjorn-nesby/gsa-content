@@ -1,0 +1,29 @@
+id: "shadows"
+name: "Skygger"
+weight: 70
+description: |-
+  Værknavn: Skygger\
+  Materialer: voks\
+  Højde: 5 skulpturer, 220 cm u/sokkel
+images:
+  - "/images/frie_depro_skygger.jpg"
+thumbnail:
+  image: "/images/frie_depro_skygger.jpg"
+  x: 0.7548
+  y: 0.4483
+  size: 0.2061
+collections:
+  - "de_profundis"
+tags: []
+de:
+  name: "Schatten"
+  description: |-
+    Werkname: Schatten\
+    Materialien: Wachs\
+    Höhe: 5 skulpturen, 220 cm
+en:
+  name: "Shadows"
+  description: |-
+    Name: Shadows\
+    Materials: wax\
+    Height: 5 sculptures, 220 cm

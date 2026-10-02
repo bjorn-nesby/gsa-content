@@ -1,0 +1,31 @@
+id: "port1_tage"
+name: "Tage Vangaard"
+weight: 80
+description: |-
+  Værknavn: Tage Vangaard\
+  Materialer: bronze\
+  Højde: oversize\
+  Placering: Textilforum, Herning
+images:
+  - "/images/port1_tage.jpg"
+thumbnail:
+  image: "/images/port1_tage.jpg"
+  x: 0.4048
+  y: 0.225
+  size: 0.3792
+collections:
+  - "portraits"
+tags:
+  - "official_portraits"
+de:
+  description: |-
+    Werkname: Tage Vangaard\
+    Materialien: Bronze\
+    Höhe: oversize\
+    Standort: Textilforum, Herning
+en:
+  description: |-
+    Name: Tage Vangaard\
+    Materials: Bronze\
+    Height: oversize\
+    Location: Textilforum, Herning

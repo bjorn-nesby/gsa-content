@@ -1,0 +1,28 @@
+id: "port1_kaj_birksted"
+name: "Kaj Birksted"
+weight: 120
+description: |-
+  Værknavn: Kaj Birksted\
+  Materialer: bronze\
+  Placering: Churchillparken,København
+images:
+  - "/images/port1_kaj_birksted.jpg"
+thumbnail:
+  image: "/images/port1_kaj_birksted.jpg"
+  x: 0.1
+  y: 0.0357
+  size: 0.7807
+collections:
+  - "portraits"
+tags:
+  - "official_portraits"
+de:
+  description: |-
+    Werkname: Kaj Birksted\
+    Materialien: Bronze\
+    Standort: Churchillpark,Kopenhagen
+en:
+  description: |-
+    Name: Kaj Birksted\
+    Materials: Bronze\
+    Location: Churchillpark,Copenhagen

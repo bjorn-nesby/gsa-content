@@ -1,0 +1,31 @@
+id: "port2_holger"
+name: "Holger Hansen"
+weight: 1010
+description: |-
+  Værknavn: Holger\
+  Materialer: ler\
+  Højde: oversize\
+  Placering: værksted
+images:
+  - "/images/port2_holger.jpg"
+thumbnail:
+  image: "/images/port2_holger.jpg"
+  x: 0.0
+  y: 0.0417
+  size: 1.0
+collections:
+  - "portraits"
+tags:
+  - "private_portraits"
+de:
+  description: |-
+    Werkname: Holger\
+    Materialien: Ton\
+    Höhe: oversize\
+    Standort: studio
+en:
+  description: |-
+    Name: Holger\
+    Materials: Clay\
+    Height: oversize\
+    Location: studio

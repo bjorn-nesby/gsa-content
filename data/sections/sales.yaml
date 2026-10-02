@@ -1,0 +1,7 @@
+short_name: "sales"
+name: "Salg"
+weight: 90
+de:
+  name: "Verkauf"
+en:
+  name: "Sales"

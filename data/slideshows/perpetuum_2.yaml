@@ -1,0 +1,18 @@
+short_name: "perpetuum_2"
+name: "Perpetuum Mobile procesbilleder"
+subtitle: "Proces #2"
+section: "explore"
+weight: 30
+in_index: false
+slides:
+  - image: "/images/perpetuum_2_1.jpg"
+  - image: "/images/perpetuum_2_2.jpg"
+  - image: "/images/perpetuum_2_3.jpg"
+  - image: "/images/perpetuum_2_4.jpg"
+  - image: "/images/perpetuum_2_5.jpg"
+de:
+  name: "Perpetuum Mobile Prozessbilder"
+  subtitle: "Prozess #2"
+en:
+  name: "Perpetuum Mobile process-images"
+  subtitle: "Process #2"

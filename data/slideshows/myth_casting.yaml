@@ -1,0 +1,31 @@
+short_name: "myth_casting"
+name: "Myter om Primitivitet"
+subtitle: "Indblik i gipsstøbningen"
+section: "explore"
+weight: 90
+in_index: false
+slides:
+  - image: "/images/myth_casting_myth_cast_0012_layer_1.jpg"
+  - image: "/images/myth_casting_myth_cast_0011_layer_2.jpg"
+  - image: "/images/myth_casting_myth_cast_0010_layer_3.jpg"
+  - image: "/images/myth_casting_myth_cast_0009_layer_4.jpg"
+  - image: "/images/myth_casting_myth_cast_0008_layer_5.jpg"
+  - image: "/images/myth_casting_myth_cast_0007_layer_6.jpg"
+  - image: "/images/myth_casting_myth_cast_0006_layer_7.jpg"
+  - image: "/images/myth_casting_myth_cast_0005_layer_8.jpg"
+  - image: "/images/myth_casting_myth_cast_0004_layer_9.jpg"
+  - image: "/images/myth_casting_myth_cast_0003_layer_10.jpg"
+  - image: "/images/myth_casting_myth_cast_0002_layer_11.jpg"
+  - image: "/images/myth_casting_myth_cast_0001_layer_12.jpg"
+  - image: "/images/myth_casting_myth_cast_0000_layer_13.jpg"
+  - image: "/images/myth_casting_myth_cast_0006_layer_1.jpg"
+  - image: "/images/myth_casting_myth_cast_0005_layer_2.jpg"
+  - image: "/images/myth_casting_myth_cast_0004_layer_3.jpg"
+  - image: "/images/myth_casting_myth_cast_0003_layer_4.jpg"
+  - image: "/images/myth_casting_myth_cast_0002_layer_5.jpg"
+  - image: "/images/myth_casting_myth_cast_0001_layer_6.jpg"
+  - image: "/images/myth_casting_myth_cast_0000_layer_8.jpg"
+de:
+  name: "Mythen von Primitivität"
+en:
+  name: "Myths of Primitiveness"

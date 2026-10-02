@@ -1,0 +1,32 @@
+id: "growth_pains_1"
+name: "Vokseværk"
+weight: 10
+description: |-
+  Værknavn: Vokseværk\
+  Materialer: bronze\
+  Højde: 160 cm u/sokkel\
+  Placering: Musikhushaven, Århus
+images:
+  - "/images/udsmyk_vokse.jpg"
+thumbnail:
+  image: "/images/udsmyk_vokse.jpg"
+  x: 0.1
+  y: 0.0588
+  size: 0.7807
+collections:
+  - "growth_pains"
+tags: []
+de:
+  name: "Wachstumsschmerzen"
+  description: |-
+    Werkname: Wachstumsschmerzen\
+    Materialien: Bronze\
+    Höhe: 160 cm\
+    Standort: Garten des Aarhuser Musikhauses
+en:
+  name: "Growing Pains"
+  description: |-
+    Name: Growing Pains\
+    Materials: Bronze\
+    Height: 160 cm\
+    Location: The Concert Hall Aarhus Garden

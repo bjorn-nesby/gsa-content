@@ -1,0 +1,31 @@
+id: "port1_mads"
+name: "Mads Eg Damgaard"
+weight: 70
+description: |-
+  Værknavn: Mads Eg Damgaard\
+  Materialer: bronze\
+  Højde: oversize\
+  Placering: Textilforum, Herning
+images:
+  - "/images/port1_mads.jpg"
+thumbnail:
+  image: "/images/port1_mads.jpg"
+  x: 0.0588
+  y: 0.0833
+  size: 0.94
+collections:
+  - "portraits"
+tags:
+  - "official_portraits"
+de:
+  description: |-
+    Werkname: Mads Eg Damgaard\
+    Materialien: Bronze\
+    Höhe: oversize\
+    Standort: Textilforum, Herning
+en:
+  description: |-
+    Name: Mads Eg Damgaard\
+    Materials: Bronze\
+    Height: oversize\
+    Location: Textilforum, Herning

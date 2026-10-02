@@ -1,0 +1,31 @@
+id: "port1_thorkild"
+name: "Thorkild Simonsen"
+weight: 30
+description: |-
+  Værknavn: Thorkild Simonsen\
+  Materialer: bronze\
+  Højde: oversize\
+  Placering: Musikhuset i Århus
+images:
+  - "/images/port1_thorkild.jpg"
+thumbnail:
+  image: "/images/port1_thorkild.jpg"
+  x: 0.0
+  y: 0.087
+  size: 1.0
+collections:
+  - "portraits"
+tags:
+  - "official_portraits"
+de:
+  description: |-
+    Werkname: Thorkild Simonsen\
+    Materialien: Bronze\
+    Höhe: oversize\
+    Standort: Aarhuser Musikhaus
+en:
+  description: |-
+    Name: Thorkild Simonsen\
+    Materials: Bronze\
+    Height: oversize\
+    Location: The Concert Hall Aarhus.

@@ -1,0 +1,24 @@
+short_name: "myths_of_primitiveness"
+title: "Myter om Primitivitet"
+subtitle: "Projekt-beskrivelse"
+header_image: "/images/myths_header.jpg"
+text: |-
+  ## To legemsstore skulpturgrupper i polykrom gips skabt til udstillingen ’Danskeren og den Ædle Vilde’ på Moesgård Museum i perioden 1984-1987.
+
+  Dokumentationen indeholder:
+
+  - [Artikel om de to skulpturgrupper i temabogen Danskeren og den Ædle Vilde](/files/myter_om_primitivitet_txt.pdf)
+  - [De bemalede gipsskulpturer fotograferet i større og mindre grupper](/explore/myth_groups/)
+  - [Begge grupper færdige i henholdsvis ler og gips](/explore/myth_finished/)
+  - [Begyndelsen på første gruppe i ler](/explore/myth_first_group/)
+  - [Model af de to grupper](/explore/myth_model/)
+  - [Indblik i gipsstøbningen](/explore/myth_casting/)
+weight: 10
+section: "explore"
+tags: []
+de:
+  title: "Mythen von Primitivität"
+  subtitle: "Projektbeschreibung"
+en:
+  title: "Myths of Primitiveness"
+  subtitle: "Project Profile"

@@ -1,0 +1,29 @@
+id: "guard"
+name: "Vogter"
+weight: 40
+description: |-
+  Værknavn: Vogter\
+  Materialer: voks\
+  Højde: 125 cm u/sokkel
+images:
+  - "/images/frie_depro_vogter.jpg"
+thumbnail:
+  image: "/images/frie_depro_vogter.jpg"
+  x: 0.0
+  y: 0.0556
+  size: 0.8436
+collections:
+  - "de_profundis"
+tags: []
+de:
+  name: "Hüter"
+  description: |-
+    Werkname: Hüter\
+    Materialien: Wachs\
+    Höhe: ~ 125 cm
+en:
+  name: "Guard"
+  description: |-
+    Name: Guard\
+    Materials: wax\
+    Height: ~ 125 cm

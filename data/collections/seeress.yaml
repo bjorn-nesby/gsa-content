@@ -1,0 +1,10 @@
+short_name: "seeress"
+name: "Seerske"
+weight: 130
+sections:
+  - "commissions"
+text: ""
+de:
+  name: "Seherin"
+en:
+  name: "Seeress"
