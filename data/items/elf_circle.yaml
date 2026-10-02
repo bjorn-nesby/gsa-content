@@ -10,9 +10,9 @@ images:
   - "/images/frie_depro_ellekreds.jpg"
 thumbnail:
   image: "/images/frie_depro_ellekreds.jpg"
-  x: 0.4924
-  y: 0.1078
-  size: 0.2418
+  x: 0.5
+  y: 0.1569
+  size: 0.257
 collections:
   - "de_profundis"
 tags: []

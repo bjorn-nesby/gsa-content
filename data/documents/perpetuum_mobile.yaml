@@ -1,7 +1,10 @@
-short_name: "perpetuum_mobile"
-title: "Perpetuum Mobile"
-subtitle: ""
-header_image: ""
+lang:
+  - da
+weight: 30
+short_name: perpetuum_mobile
+title: Perpetuum Mobile
+subtitle: ''
+header_image: /images/perpetuum_1_3.jpg
 text: |-
   Mit hidtil største skulpturprojekt, som udføres i et tværfagligt samarbejde med forskere og eksperter. Processen bliver løbende dokumenteret her på hjemmesiden.
 
@@ -40,6 +43,5 @@ text: |-
   På YouTube...
 
   [![](/images/perpetuum_video_3.png)](https://www.youtube.com/channel/UC3zBduK_ZGZ-qQUO6fdnDpw)
-weight: 30
-section: "explore"
+section: explore
 tags: []
